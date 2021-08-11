@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mini_trivia/static/css/main.2b589f5d.chunk.css",
+    "main.js": "/mini_trivia/static/js/main.92dc32e6.chunk.js",
+    "main.js.map": "/mini_trivia/static/js/main.92dc32e6.chunk.js.map",
+    "runtime-main.js": "/mini_trivia/static/js/runtime-main.fe44b600.js",
+    "runtime-main.js.map": "/mini_trivia/static/js/runtime-main.fe44b600.js.map",
+    "static/js/2.d5ad6201.chunk.js": "/mini_trivia/static/js/2.d5ad6201.chunk.js",
+    "static/js/2.d5ad6201.chunk.js.map": "/mini_trivia/static/js/2.d5ad6201.chunk.js.map",
+    "index.html": "/mini_trivia/index.html",
+    "static/css/main.2b589f5d.chunk.css.map": "/mini_trivia/static/css/main.2b589f5d.chunk.css.map",
+    "static/js/2.d5ad6201.chunk.js.LICENSE.txt": "/mini_trivia/static/js/2.d5ad6201.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe44b600.js",
+    "static/js/2.d5ad6201.chunk.js",
+    "static/css/main.2b589f5d.chunk.css",
+    "static/js/main.92dc32e6.chunk.js"
+  ]
+}
